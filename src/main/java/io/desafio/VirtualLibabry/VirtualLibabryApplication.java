@@ -1,4 +1,4 @@
-package io.desafio.Virtual.Libabry;
+package io.desafio.VirtualLibabry;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
